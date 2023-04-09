@@ -10,5 +10,14 @@
   },
   "about.qmd": {
     "about.html": "87c2049c"
+  },
+  "posts/first-jupyter-post/I am a test.ipynb": {
+    "I am a test.html": "d683e4a3"
+  },
+  "posts/biography/I am a test.ipynb": {
+    "I am a test.html": "938319f9"
+  },
+  "posts/biography/mybio.ipynb": {
+    "mybio.html": "a7a0c8bb"
   }
 }

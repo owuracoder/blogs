@@ -19,18 +19,20 @@ about:
 Richard is a Blockchain Analyst in Podproza utilizing the power of data science to ensure the blockchain space is safe and secured for everyone. Richard Loves programming and travelling
 
 ## Education
-Czech university of Lifesciences, Czech republic | Prague
-Masters in Economics and Management | Sept 2021 - June 2023
+Czech university of Lifesciences, Czech republic | Masters in Economics and Management <br>
+Sept 2021 - June 2023
 
-Southwestern University of Finance and Economics, China | Chengdu
-Masters in Public Administration | Sept 2017 - June 2021
+Southwestern University of Finance and Economics, China | Masters in Public Administration <br>
+Sept 2017 - June 2021
 
-University of Cape Coast, Cape Coast | Ghana
-Bachelors in Accounting & Finance | Sept 2011 - May 2016
+University of Cape Coast, Ghana | Bachelors in Accounting & Finance <br>
+Sept 2011 - May 2016
 
 ## Experience
-Blockchain Analyst | Forensic analysis on Blockchains | January 2022 - present
+Blockchain Analyst | Forensic analysis on Blockchains <br>
+January 2022 - present <br>
 
-Javascript Developer | Contractor | January 2019 - December 2021
+Javascript Developer | Contractor <br>
+January 2019 - December 2021
 
 :::

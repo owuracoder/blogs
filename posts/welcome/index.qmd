@@ -1,12 +1,12 @@
 ---
 title: "Welcome To My Blog"
-author: "Tristan O'Malley"
+author: "Richard Agyemang"
 date: "2023-03-30"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+This is a welcome message. Welcome!
 
 ![](thumbnail.jpg)
 
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
+On this blog we will learn about data analysis with python and also using deep learning algorithms to solve real world problems. Welcome once again to my blog and I am happy to have you here 😊
