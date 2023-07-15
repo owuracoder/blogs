@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/vasps/vasps.html",
       "/posts/biography/mybio.html",
       "/posts/welcome/index.html"
     ]
