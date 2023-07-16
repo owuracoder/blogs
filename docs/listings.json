@@ -2,6 +2,7 @@
   {
     "listing": "/index.html",
     "items": [
+      "/posts/chain_hop/chain_hop.html",
       "/posts/vasps/vasps.html",
       "/posts/biography/mybio.html",
       "/posts/welcome/index.html"
